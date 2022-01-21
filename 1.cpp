@@ -4,6 +4,6 @@ main()
 {
 	fdfdfdfdfint a=55555;
 	cout << a;
-	cout <<"kwyboard";
+	cout <<"kwyboafdffsdfrd";
 	cout << "ds dsjds d";
 }
